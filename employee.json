@@ -1,0 +1,43 @@
+{'Employee' : [
+    {           'name':'ace',
+                'DOB':'01/01/2000',
+                'height':'175cm',
+                'city':'new york',
+                'state':'new york'
+                },
+
+     {
+                'name':'ben',
+                'DOB':'01/02/2000',
+                'height':'170cm',
+                'city':'los angeles',
+                'state':'california'
+                },
+
+    {
+                'name':'chloe',
+                'DOB':'02/03/2000',
+                'height':'170cm',
+                'city':'chicgo',
+                'state':'illinois'
+                },
+
+    {
+                'name':'daisy',
+                'DOB':'03/04/2000',
+                'height':'165cm',
+                'city':'houston',
+                'state':'texas'
+                },
+
+    {
+                'name':'ella',
+                'DOB':'04/05/2000',
+                'height':'160cm',
+                'city':'phoenix',
+                'state':'arizona'
+                }
+
+    ]}
+    
+                
